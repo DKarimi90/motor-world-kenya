@@ -13,6 +13,8 @@ gem 'active_model_serializers'
 
 gem 'bcrypt'
 
+gem 'rack-cors'
+
 gem'faker'
 
 # Use the Puma web server [https://github.com/puma/puma]
